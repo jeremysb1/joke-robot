@@ -1,6 +1,8 @@
 # A Dancing Robot Telling Jokes
 
-I created this vanilla JavaScript project to help me improve my JavaScript skills. I learned how to create functions leveraging text to speech API's with promises.
+I created this vanilla JavaScript project to help me improve my JavaScript skills. 
+
+I learned how to create functions leveraging text to speech API's using the async function.
 
 The dancing robot tells jokes from a text to speech API and it gets its jokes from a jokes API.
 
