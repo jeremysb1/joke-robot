@@ -1,7 +1,9 @@
-# Joke Robot
+# A Dancing Joker Robot
 
-This vanilla JavaScript project is created to help me improve my JavaScript skills.
+I created this vanilla JavaScript project to help me improve my JavaScript skills. I learned how to create functions leveraging text to speech API's with promises.
 
 The dancing robot tells jokes from a text to speech API and it gets its jokes from a jokes API.
 
+## The Dancing Joker Robot
 
+![The Roboot](dancing-robot-joker.png)
