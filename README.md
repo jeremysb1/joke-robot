@@ -11,4 +11,4 @@ The dancing robot tells jokes from a text to speech API and it gets its jokes fr
 ![The Roboot](dancing-robot-joker.png)
 
 
-As the picturre suggests, the user will push the button and robot will tell the user a joke.
+As the picturre suggests, the user will push the button and robot will tell a joke.
